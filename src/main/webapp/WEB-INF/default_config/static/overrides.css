@@ -1,0 +1,16 @@
+#map {
+	top: 0px;
+}
+
+#header {
+	display: none;
+}
+
+#zoom_in,#zoom_out,#zoom_to_max_extent {
+	top: 10px;
+	cursor: pointer;
+}
+
+#layer_list_selector_container {
+	top: 100px;
+}
